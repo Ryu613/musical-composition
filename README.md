@@ -1,5 +1,10 @@
 # musical-composition
 
+个人作曲作品，很业余
+目前包括扒曲系列，仿曲系列，原创系列，练习系列
+output是目前最新版本的导出版本
+project根据所用软件区分，里面是工程文件
+作曲书籍导图以后会更新[在这里](https://github.com/Ryu613/books/tree/master/mindmap/%E4%BD%9C%E6%9B%B2)
 personal music composition files
 
 ## software-requirement
