@@ -8,7 +8,7 @@ project根据所用软件区分，里面是工程文件
 
 作曲书籍导图以后会更新[在这里](https://github.com/Ryu613/books/tree/master/mindmap/%E4%BD%9C%E6%9B%B2)
 
---
+---
 
 personal music composition files
 
